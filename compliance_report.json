@@ -1,0 +1,1882 @@
+[
+    {
+        "control": "    \"Ensure /dev/shm is a separate partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure /dev/shm is a separate partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure /etc/shadow password fields are not empty\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure /tmp is a separate partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure /tmp is a separate partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure AIDE is installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure AIDE is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM automatic mounting of removable media is\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM autorun-never is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM autorun-never is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM autorun-never is not overridden\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM disable-user-list option is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM disabling automatic mounting of removable\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM login banner is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM login banner is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM screen locks cannot be overridden\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GDM screen locks when the user is idle\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GNOME Display Manager is removed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GPG keys are configured (Manual)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure GPG keys are configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure IPv6 status is identified (Manual)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure IPv6 status is identified\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SELinux is installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SELinux is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SELinux is not disabled in bootloader\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SELinux policy is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SELinux policy is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SETroubleshoot is not installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SETroubleshoot is not installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SUID and SGID files are reviewed (Manual)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure SUID and SGID files are reviewed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure X window server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure XDMCP is not enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure XDMCP is not enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure a cron job in compliance with site policy is returned.\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure a single firewall configuration utility is in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure access to /etc/issue is configured (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure access to /etc/issue is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure access to /etc/issue.net is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure access to /etc/motd is configured (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure access to /etc/motd is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure access to all logfiles has been configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure access to bootloader config is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure access to the su command is restricted\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure accounts in /etc/passwd use shadowed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure accounts without a valid login shell are locked\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure actions as another user are always logged\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure active authselect profile includes pam modules\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure address space layout randomization is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure all groups in /etc/passwd exist in /etc/group\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure all locally generated logs have the appropriate permissions.\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure all security logs are sent to a remote log server.\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure all users last password change date is in the past\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure at is restricted to authorized users (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure at is restricted to authorized users\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure audit configuration files group owner is\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit configuration files mode is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit configuration files owner is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit log files group owner is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit log files mode is configured (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit log files mode is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit log files owner is configured (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit log files owner is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit log storage size is configured (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit log storage size is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit logs are not automatically deleted\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit tools group owner is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit tools mode is configured (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit tools mode is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit tools owner is configured (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit tools owner is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure audit_backlog_limit is sufficient (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure audit_backlog_limit is sufficient\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure auditd packages are installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure auditd packages are installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure auditd service is enabled and active (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure auditd service is enabled and active\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure auditing for processes that start prior to auditd is\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure autofs services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure autofs services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure avahi daemon services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure bluetooth services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure bluetooth services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure bogus icmp responses are ignored (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure bogus icmp responses are ignored\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure bootloader password is set (Automated)\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure bootloader password is set\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure broadcast icmp requests are ignored\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure changes to system administration scope\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure chrony is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure chrony is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure chrony is not run as the root user (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure chrony is not run as the root user\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure contents follow local site policy\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure core dump backtraces are disabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure core dump backtraces are disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure core dump storage is disabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure core dump storage is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure cramfs kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure cron daemon is enabled and active (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure cron daemon is enabled and active\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure crontab is restricted to authorized users\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure cryptographic mechanisms are used to protect\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure dccp kernel module is not available (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure dccp kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure default user shell timeout is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure default user umask is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure default user umask is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure dhcp server services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure dhcp server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure discretionary access control permission\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure dns server services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure dns server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure dnsmasq services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure dnsmasq services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure events that modify date and time information are\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure events that modify the sudo log file are collected\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure events that modify the system's Mandatory\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure events that modify the system's network\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure events that modify user/group information are\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure file deletion events by users are collected\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure filesystem integrity is regularly checked\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure firewalld drops unnecessary services and ports\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure firewalld loopback traffic is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure freevxfs kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ftp client is not installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ftp client is not installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ftp server services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ftp server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure gpgcheck is globally activated (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure gpgcheck is globally activated\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure group root is the only GID 0 group (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure group root is the only GID 0 group\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure hfs kernel module is not available (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure hfs kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure hfsplus kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure icmp redirects are not accepted (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure icmp redirects are not accepted\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure inactive password lock is configured (Automated) \\uf06f\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure inactive password lock is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure ip forwarding is disabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ip forwarding is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ipv6 router advertisements are not accepted\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure jffs2 kernel module is not available (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure jffs2 kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure journald Compress is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure journald Compress is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure journald ForwardToSyslog is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure journald Storage is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure journald Storage is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure journald is configured to send logs to rsyslog\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure journald log file access is configured (Manual)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure journald log file access is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure journald log file rotation is configured (Manual)\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure journald log file rotation is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure journald service is enabled and active\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure kernel module loading unloading and modification\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure kernel module loading unloading and\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure latest version of authselect is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure latest version of libpwquality is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure latest version of pam is installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure latest version of pam is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ldap client is not installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ldap client is not installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure local interactive user dot files access is\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure local interactive user home directories are mode 750 or more restrictive\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure local interactive user home directories are\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure local interactive users own their home directories\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure local login warning banner is configured properly\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure login and logout events are collected\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure mail transfer agents are configured for local-only\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure message access server services are not in use\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure message of the day is configured properly\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure minimum password days is configured (Manual)\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure minimum password days is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure network file system services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nftables base chains exist (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nftables base chains exist\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nftables default deny firewall policy (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nftables default deny firewall policy\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nftables established connections are configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nftables is installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nftables is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nftables loopback traffic is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nis client is not installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nis client is not installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nis server services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nis server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate GIDs exist (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate GIDs exist\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate UIDs exist (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate UIDs exist\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate group names exist (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate group names exist\"",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate group names exist\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate user names exist (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no duplicate user names exist\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no files or directories without an owner and a\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no unconfined services exist (Manual)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure no unconfined services exist\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /dev/shm partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /home partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /home partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /tmp partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /tmp partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /var partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /var partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /var/log partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /var/log/audit partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nodev option set on /var/tmp partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure noexec option set on /dev/shm partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure noexec option set on /tmp partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure noexec option set on /tmp partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure noexec option set on /var/log partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure noexec option set on /var/log/audit partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure noexec option set on /var/tmp partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nologin is not listed in /etc/shells (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nologin is not listed in /etc/shells\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /dev/shm partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /home partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /home partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /tmp partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /tmp partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /var partition (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /var partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /var/log partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /var/log/audit partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure nosuid option set on /var/tmp partition\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure only approved services are listening on a network\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure only approved services are listening on a\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure only one logging system is in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure only one logging system is in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure package manager repositories are configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure packet redirect sending is disabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure packet redirect sending is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_faillock module is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_faillock module is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_pwhistory includes use_authtok\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_pwhistory module is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_pwhistory module is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_pwquality module is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_pwquality module is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_unix does not include nullok (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_unix does not include nullok\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_unix does not include remember\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_unix includes a strong password hashing\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure pam_unix includes use_authtok (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_unix includes use_authtok\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_unix module is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure pam_unix module is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure password complexity is configured (Manual)\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password complexity is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password dictionary check is enabled\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password expiration is configured (Automated)\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password expiration is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password expiration warning days is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password failed attempts lockout includes root\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password failed attempts lockout is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password history is enforced for the root user\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password history remember is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password length is configured (Automated)\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password length is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password maximum sequential characters is\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password number of changed characters is\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password quality is enforced for the root user\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password same consecutive characters is\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password unlock time is configured (Automated)\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure password unlock time is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/cron.d are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/cron.daily are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/cron.hourly are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/cron.monthly are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/cron.weekly are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/crontab are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/group are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/group- are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/gshadow are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/gshadow- are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/passwd are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/passwd- are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/security/opasswd are\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/shadow are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/shadow- are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/shells are configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on /etc/ssh/sshd_config are\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on SSH private host key files are\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure permissions on SSH public host key files are\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure print server services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure print server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ptrace_scope is restricted (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure ptrace_scope is restricted\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rds kernel module is not available (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rds kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure re-authentication for privilege escalation is not\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure remote login warning banner is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure repo_gpgcheck is globally activated (Manual)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure repo_gpgcheck is globally activated\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure reverse path filtering is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure reverse path filtering is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure root account access is controlled (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure root account access is controlled\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure root is the only GID 0 account (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure root is the only GID 0 account\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure root is the only UID 0 account (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure root is the only UID 0 account\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure root path integrity (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure root path integrity\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure root user umask is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure root user umask is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rpcbind services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rpcbind services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsync services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsync services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsyslog is configured to send logs to a remote log\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure rsyslog is installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsyslog is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsyslog is not configured to receive logs from a\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure rsyslog log file creation mode is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure rsyslog logging is configured (Manual)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsyslog logging is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsyslog logrotate is configured (Manual)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsyslog logrotate is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure rsyslog service is enabled and active\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure samba file server services are not in use\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure sctp kernel module is not available (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sctp kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure secure icmp redirects are not accepted\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /home (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /home\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /var (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /var\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /var/log (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /var/log\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /var/log/audit\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /var/tmp (Automated) \\uf06f\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure separate partition exists for /var/tmp\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure session initiation information is collected\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure snmp services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure snmp services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure source routed packets are not accepted\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure squashfs kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd Banner is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd Banner is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd Ciphers are configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd Ciphers are configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd ClientAliveInterval and ClientAliveCountMax\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd ClientAliveInterval and\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd DisableForwarding is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd DisableForwarding is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd GSSAPIAuthentication is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd HostbasedAuthentication is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd IgnoreRhosts is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd IgnoreRhosts is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd KexAlgorithms is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd KexAlgorithms is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd LogLevel is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd LogLevel is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd LoginGraceTime is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd LoginGraceTime is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd MACs are configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd MACs are configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd MaxAuthTries is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd MaxAuthTries is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd MaxSessions is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd MaxSessions is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd MaxStartups is configured (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd MaxStartups is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd PermitEmptyPasswords is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd PermitRootLogin is disabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd PermitRootLogin is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd PermitUserEnvironment is disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd UsePAM is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd UsePAM is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sshd access is configured (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure sshd access is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure stopping and masking the service and/or socket meets local site policy\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure strong password hashing algorithm is configured\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure successful and unsuccessful attempts to use the\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure successful file system mounts are collected\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sudo authentication timeout is configured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sudo commands use pty (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sudo commands use pty\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sudo is installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sudo is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure sudo log file exists (Automated)\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure sudo log file exists\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure suspicious packets are logged (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure suspicious packets are logged\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure system accounts do not have a valid login shell\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure system is disabled when audit logs are full\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure system warns when audit logs are low on space\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure system wide crypto policy disables EtM for ssh\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure system wide crypto policy disables cbc for ssh\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure system wide crypto policy disables chacha20-\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure system wide crypto policy disables macs less\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure system wide crypto policy disables sha1 hash\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure system wide crypto policy is not set in sshd\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure system wide crypto policy is not set to legacy\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure systemd-journal-remote is installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure systemd-journal-remote is installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure systemd-journal-remote service is not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure systemd-journal-upload authentication is\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure systemd-journal-upload is enabled and active\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure tcp syn cookies is enabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure tcp syn cookies is enabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure telnet client is not installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure telnet client is not installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure telnet server services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure telnet server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure tftp client is not installed (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure tftp client is not installed\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure tftp server services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure tftp server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that Key exchange algorithms used are in compliance with site policy\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that MACs used are in compliance with site policy.\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that a rule allowing ssh has been added to the base chain prior to setting the\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that a rule allowing ssh has been added to the base chain prior to setting\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that all account usernames and authentication credentials are\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that all rules in /etc/audit/rules.d have been merged into\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure that all systems that store logs have adequate storage space for the\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure that all users with administrative account access use a dedicated or\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure that appropriate logs are being aggregated to a central log\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure that ciphers used are in compliance with site policy.\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that file permissions are mode 0640 or more restrictive.\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure that local logging has been enabled on all systems and networking\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that logging destinations maintain adequate storage to comply with\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that logs are rotated as per the environment requirements.\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure that no rogue SUID or SGID programs have been introduced into the system.\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that only network ports, protocols, and services listening on a system\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that systemd will mount the /tmp partition at boot time.\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure that the caching timeout is no more than 15 minutes.\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that the systemd-journald service is enabled to allow capturing of logging\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that the timeout conforms to your local policy.\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure that unauthorized software is either removed or the inventory is\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure the MCS Translation Service (mcstrans) is not\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure the SELinux mode is enforcing (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure the SELinux mode is enforcing\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure the SELinux mode is not disabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure the SELinux mode is not disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure the audit configuration is immutable (Automated)\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure the audit configuration is immutable\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure the audit log file directory mode is configured\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure the dependent package is approved by local site policy\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure the required events are logged.\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure the running and on disk configuration is the same\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure time synchronization is in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure time synchronization is in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure tipc kernel module is not available (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure tipc kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure transport layer security is implemented between the client and the log\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure udf kernel module is not available (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure udf kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure unsuccessful file access attempts are collected\",",
+        "predicted_severity": "High"
+    },
+    {
+        "control": "    \"Ensure unused filesystems kernel modules are not\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure updates, patches, and additional security\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure usb-storage kernel module is not available\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure use of privileged commands are collected\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure users must provide password for escalation\",",
+        "predicted_severity": "Medium"
+    },
+    {
+        "control": "    \"Ensure web proxy server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure web server services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure web server services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure wireless interfaces are disabled (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure wireless interfaces are disabled\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure world writable files and directories are secured\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure xinetd services are not in use (Automated)\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "    \"Ensure xinetd services are not in use\",",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "  \"controls\": [",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "  ]",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "{",
+        "predicted_severity": "Low"
+    },
+    {
+        "control": "}",
+        "predicted_severity": "Low"
+    }
+]
